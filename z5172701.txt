@@ -1,0 +1,4 @@
+Work Diary
+
+Week 1
+Group formed. After discussion in the weekend, we choose the ReadRecommend topic in this project. We preliminarily determined the technology stack needed for this project and the main functions to be implemented. Created the Github and Jira account.
